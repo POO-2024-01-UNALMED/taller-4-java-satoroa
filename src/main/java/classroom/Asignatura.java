@@ -49,3 +49,4 @@ public class Asignatura {
         this.codigoInterno = (int) codigoInterno;
     }
 }
+
